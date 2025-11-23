@@ -1,2 +1,2 @@
-# model_cards
-Archive of Model Cards
+# Model Cards
+AI Model Card Archive
